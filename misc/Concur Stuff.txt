@@ -1,0 +1,32 @@
+Concur Internship
+Length: 11 weeks
+Goal: Create a working android app
+
+2/1/17
+-Got assigned to teams and had to choose a theme.
+	-Team Members:
+		Stuart
+		Bryn
+		Rusdan
+		Valentin
+	-Team Name: Apex (Studios?)
+
+2/8/17
+-Learned basics of how android and apps work.
+-Learned about buttons and textView and how to use them
+-Got assigned to create a simple calculator app 
+
+2/9/17
+-Spent around 4 hours making the calculator app and figuring out android studio.
+
+2/15/17
+-Stuart wasn't here today
+-write to Stuart on what we did Wed
+-come up with app ideas
+-mess around with above topics in android studio
+	-Some random concepts we learned:
+		set listView
+		relative layout
+		(custom) adapters and data transfers
+
+2/16/17
