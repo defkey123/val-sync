@@ -30,3 +30,9 @@ Goal: Create a working android app
 		(custom) adapters and data transfers
 
 2/16/17
+-Learned about version control and GitHub
+-Created my own personal Repository for transferring files between my laptop and desktop PC.
+
+2/17/17
+-Continued working on betting better with cmd for Git.
+
